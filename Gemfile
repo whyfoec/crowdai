@@ -12,6 +12,7 @@ gem 'puma_worker_killer'
 gem 'devise'
 gem 'pundit'
 gem 'activeadmin'
+gem 'doorkeeper'
 
 # monitoring
 gem 'mini_magick'
